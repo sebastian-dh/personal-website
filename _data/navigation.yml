@@ -1,0 +1,9 @@
+links:
+- title: Home
+  url: /
+- title: Projects
+  url: /projects
+- title: Photography
+  url: /photography
+- title: Résumé
+  url: /resume.pdf
