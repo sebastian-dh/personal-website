@@ -11,7 +11,7 @@ Built on-demand image processing server and CI/CD pipeline using CircleCI and AW
 
 Communication platform built with Ruby on Rails, jQuery.
 
-Fully featured registration-optional message board with voting system.
+Full-featured registration-optional message board with voting system.
 
 ![Screenshot](/assets/images/convos1.jpg)
 
